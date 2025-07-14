@@ -1,0 +1,10 @@
+speechrecognition
+pyttsx3
+pyaudio
+requests
+openai
+gtts
+pygame 
+
+Use this command to install the libraries
+"python -m pip install -r requirements.txt" 
