@@ -23,7 +23,7 @@ This project demonstrates the integration of speech recognition, text-to-speech,
 - `requests` – for API calls (NewsAPI)
 - `openai` – for AI response (NVIDIA LLM)
 - `pyaudio` – backend for microphone input
-- 
+
 ## 🚀 How to Run the Project
 
 1. **Clone this repo** or [Download ZIP](https://github.com/21Aditya-PY/Kim-the-virtual-assistant/archive/refs/heads/main.zip)
