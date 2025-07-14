@@ -1,4 +1,4 @@
-# Kim - The Virtual Voice Assistant 🗣️🤖
+# Kim - The Virtual Voice Assistant 
 
 **Kim** is a Python-based virtual voice assistant that can understand voice commands and perform tasks like opening websites, playing music, reading live news, and even responding intelligently using NVIDIA's AI model via the OpenAI SDK.
 
